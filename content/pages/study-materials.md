@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: The Study Materials section contains information on study material for
+  the course including finding source, citation.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Study Materials

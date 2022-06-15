@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: The Syllabus section contains course overview, grading, and calendar
+  for the course.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
