@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: The Study Materials section contains information on study material for
+  the course including finding source, citation.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Study Materials
 uid: 90515c42-6cdd-3ca6-5c56-dc24dc5a39d8
 ---
