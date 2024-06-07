@@ -3,6 +3,7 @@ content_type: resource
 description: 'This resource includes discussion questions based on american exceptionalism
   and a case: why no national health insurance in the united states?'
 file: /courses/17-317-u-s-social-policy-spring-2006/b60d5ad143cbe03c63755c220c6d187f_all_disc_ques.pdf
+file_size: 113591
 file_type: application/pdf
 learning_resource_types:
 - Readings
